@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/NikolayKozachuk/java-core-exercises/blob/master/crazy-lambdas/src/main/java/com/bobocode/CrazyLambdas.java" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/NikolayKozachuk/java-core-exercises.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\User\IdeaProjects\NEWREPOZITORIY" />
