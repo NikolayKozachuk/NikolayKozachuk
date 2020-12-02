@@ -66,6 +66,10 @@
           <option name="url" value="https://github.com/bobocode-projects/jpa-hibernate-tutorial.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bobocode-projects/spring-framework-tutorial.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\User\IdeaProjects\Bobocode" />
